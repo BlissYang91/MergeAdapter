@@ -9,7 +9,6 @@ import java.util.TimerTask
 import java.util.concurrent.TimeUnit
 
 //顶层声明，私有当前文件可见，避免误调,也可以放全局常量
-//private const val PERIOD_SECONDS: Long = 2
 //同一个模块中全局可见
 internal fun newsReceiver(onNewsList: ((List<News>) -> Unit)) {
     val newsList = createNewsList()
