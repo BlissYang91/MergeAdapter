@@ -13,8 +13,6 @@ import androidx.recyclerview.widget.MergeAdapter
 import com.example.mergeadapterapp.adapter.*
 import com.example.mergeadapterapp.data.createNewsList
 import com.example.mergeadapterapp.data.createTitleList
-import com.example.mergeadapterapp.data.newsReceiver
-import com.example.mergeadapterapp.data.newsTitleReceiver
 import com.example.mergeadapterapp.databinding.ActivityMainBinding
 import com.example.mergeadapterapp.domain.News
 import com.example.mergeadapterapp.domain.TitleBean
