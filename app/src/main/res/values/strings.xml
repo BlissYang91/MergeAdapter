@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MergeAdapterApp</string>
+    <string name="header_text">第一个adapter</string>
+</resources>
